@@ -53,9 +53,14 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 ###  HARDWARE SETUP 
 
+![WhatsApp Image 2025-05-17 at 10 32 25_4915a0e3](https://github.com/user-attachments/assets/838f0934-1f01-4fa4-93be-616713396f57)
 
+![WhatsApp Image 2025-05-17 at 10 32 25_59bfd469](https://github.com/user-attachments/assets/5f1dbefd-3799-4947-8411-7e601a4da2bf)
 
 
 ### LADDER LOGIC
+
+![WhatsApp Image 2025-05-17 at 10 32 12_eb334af4](https://github.com/user-attachments/assets/00be088e-243a-4e2b-aa0d-447f6606b3bb)
+
 ### Conclusion:
 The ON-Delay timer function was successfully implemented using Delta SV2 PLC. The output activated after a 0.5-second delay once the input was turned ON.
